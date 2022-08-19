@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 0701510354045c585a580f7416765a44104e4e297f7e7368782a496bb1b16268
+      flags: 0
+    RecentlyUsedScenePath-0:
+      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646680e0b02275e365119020e
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646681d02052c1530101d171e166439262f2434
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 22424703114646790c001f2a1526780a59353f09393a3035620c0532eff0383df1a814cec42f2d2a3c26ea310b701431fb1e10
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646790c001f2a1526780a59353f09393a3035620c0532eff0383df1a814cec42f2d2a3c26ea310b6c4f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646790c001f2a1526780a59353f09393a3035620c0532eff0383df1a814cec42f2d2a3c36ea2f100c1431e603040eb81e04020517
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646790c001f2a1526780a59353f09393a3035620c0532eff0383df1a814cec42f2d2a3c36ea2f100d0f3ee21a0005f1451f05181ae4
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646790c001f2a1526780a59353f09393a3035620c0532eff0383df1a814cec42f2d2a3c36ea2f100e0e36fc1e1a26f90f0f450400f41a08
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646680e0b0227036c721f001e162d0e292a3c633c133af6f9
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
